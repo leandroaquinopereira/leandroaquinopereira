@@ -54,4 +54,13 @@
     <a href="https://code.visualstudio.com" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="python" width="40" height="40"/> 
     </a> 
+    <a href="https://git-scm.com" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mysql.com" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.android.com/studio" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
 </div>
