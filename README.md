@@ -1,5 +1,6 @@
 <div align="center">
-  <h1 align="center">S O F T W A R E &nbsp; D E V E L O P E R</h1>
+  <h1 align="center">L E A N D R O &nbsp; DE &nbsp; A Q U I N O &nbsp; P E R E I R A</h1>
+  <b>Software Developer</b>
 </div>
 
 <div align="center">
