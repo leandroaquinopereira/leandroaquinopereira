@@ -31,7 +31,9 @@
 
 ---
 
-### 🤖 Most Used Technologies
+### 🤖 Most Used 
+
+**Technologies**
 
 <div align="left">
     <a href="https://www.python.org/" target="_blank"> 
@@ -69,9 +71,7 @@
     </a> 
 </div>
 
----
-
-### 🤖 DevOps
+**DevOps**
 
 <div align="left">
     <a href="https://git-scm.com" target="_blank"> 
