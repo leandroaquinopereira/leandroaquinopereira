@@ -31,7 +31,7 @@
 
 ---
 
-### 🤖 Most Used 
+### 🤖 Most Used Technologies
 
 <div align="left">
     <a href="https://www.python.org/" target="_blank"> 
@@ -61,17 +61,21 @@
     <a href="https://code.visualstudio.com" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
     </a>
+    <a href="https://jupyter.org" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> 
+    </a>
     <a href="https://www.mysql.com" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://www.sqlite.org/index.html" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqllite" width="40" height="40"/>
+    </a>
+    <a href="https://firebase.google.com" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     </a> 
     <a href="https://www.docker.com" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-    </a> 
-</div>
-
-**DevOps**
-
-<div align="left">
+    </a>
     <a href="https://git-scm.com" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
     </a>
@@ -83,6 +87,5 @@
     </a>  
     <a href="https://www.jenkins.io" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-    </a>  
-
+    </a>   
 </div>
