@@ -1,6 +1,5 @@
 <div align="center">
   <h1 align="center">S O F T W A R E &nbsp; D E V E L O P E R</h1>
-  <b>Gratuated at Computer Enginer</b>
 </div>
 
 <div align="center">
@@ -16,7 +15,7 @@
 </div>
 
 ### 👨‍💻 About 
-* 🎓 &nbsp; Studying Computer engineer at <a href="https://inatel.br/home/">Inatel</a>.
+* 🎓 &nbsp; Graduated in Computer Engineering from <a href="https://inatel.br/home/">Inatel</a>.
 * 💼 &nbsp; Working as a Software Developer.
 * 🌱 &nbsp; Learning more about front-end technologies.
 
