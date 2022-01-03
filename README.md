@@ -29,8 +29,6 @@
     </a>
 </div>
 
----
-
 ### 🤖 Most Used Technologies
 
 <div align="center">
