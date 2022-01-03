@@ -1,8 +1,3 @@
-# Hi there! :computer:
-
-![GitHub followers](https://img.shields.io/github/followers/leandroaquinopereira?label=Follow&style=social)
-![](https://komarev.com/ghpvc/?username=leandroaquinopereira&color=006bed)
-
 <h4 align="center"> 
 	:computer: Gratuated at Computer Enginer and working as Python developer. :computer:
 </h4>
@@ -20,4 +15,4 @@
 
 ******
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaquinopereira&hide=html&layout=compact=true&theme=tokyonight&hide_border=true"/></a>
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaquinopereira&hide=html&layout=compact=true&theme=tokyonight&hide_border=true"/></a>
