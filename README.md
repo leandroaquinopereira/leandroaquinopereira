@@ -1,6 +1,6 @@
 # Hi there! :computer:
 
-![GitHub followers](https://img.shields.io/github/followers/leandroaquinopereiralabel=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/leandroaquinopereira?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=leandroaquinopereira&color=006bed)
 
 <h4 align="center"> 
