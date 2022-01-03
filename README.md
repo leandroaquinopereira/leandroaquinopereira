@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=pa_leandroap"/></a>
 </div>
 
-### 👨‍💻 About 
+### 👨‍💻 About Me
 * 🎓 &nbsp; Graduated in Computer Engineering at <a href="https://inatel.br/home/">Inatel</a>.
 * 💼 &nbsp; Working as a Software Developer.
 * 🌱 &nbsp; Learning more about front-end technologies.
@@ -29,9 +29,12 @@
 </div>
 
 ### 🤖 Most Used Technologies
-<div align="left">
+<div align="center">
     <a href="https://www.python.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a>
+    <a href="https://www.python.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="python" width="40" height="40"/> 
     </a> 
     <a href="https://www.java.com" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50"/>
@@ -44,7 +47,7 @@
     </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
-    </a>  
+    </a>
     <a href="https://postman.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
     </a>
