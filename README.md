@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 * 🎓 &nbsp; Graduated in Computer Engineering at <a href="https://inatel.br/home/">Inatel</a>.
-* 💼 &nbsp; Working as a Software Developer.
+<!-- * 💼 &nbsp; Working as a Software Developer. -->
 * 🌱 &nbsp; Learning more about front-end technologies.
 
 ##
@@ -30,7 +30,6 @@
     <a href="https://github.com/leandroaquinopereira">
         <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaquinopereira&layout=compact&langs_count=7&theme=dark"/>
     </a>
-    
 </div>
 
 ### 🤖 Most Used Technologies
