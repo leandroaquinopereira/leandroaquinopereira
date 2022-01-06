@@ -17,8 +17,7 @@
 </div>
 
 ### 👨‍💻 About Me
-* 🎓 &nbsp; Graduated in Computer Engineering at <a href="https://inatel.br/home/">Inatel</a>.
-<!-- * 💼 &nbsp; Working as a Software Developer. -->
+* 🎓 &nbsp; Graduated in Computer Engineering at <a href="https://inatel.br/home/">Inatel</a>.<!-- * 💼 &nbsp; Working as a Software Developer. -->
 * 🌱 &nbsp; Learning more about front-end technologies.
 
 ##
